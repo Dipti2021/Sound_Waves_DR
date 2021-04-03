@@ -44,7 +44,7 @@ function getGuitar(){// to connect the input guitar to audiocontent
   })
 }
 
-//setting up visualiser
+//setting up visualiser for the code
 
 function drawVisualizer(){
     requestAnimationFrame(drawVisualizer)
