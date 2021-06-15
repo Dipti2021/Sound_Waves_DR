@@ -2,16 +2,6 @@ body{
     background-color: rgb(187, 186, 186);
 
 }
-canvas{
-    position:absolute;
-    top:0;
-    left:0;
-    width: 100vw;
-    height: 100vh;
-    z-index: -1;
-    pointer-events: none;
-
-}
 
 .grid{
     display:grid;
